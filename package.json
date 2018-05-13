@@ -1,0 +1,20 @@
+{
+  "name": "queue-jumper",
+  "version": "0.0.1",
+  "description": "A priority queue implemented using a heap and TypeScript",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "queue",
+    "priority",
+    "heap",
+    "minheap",
+    "maxheap",
+    "ts",
+    "typescript"
+  ],
+  "author": "George Crabtree <supercrabtree@googlemail.com> (https://github.com/supercrabtree)",
+  "license": "MIT"
+}
